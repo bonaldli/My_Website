@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Competition | Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/categories/competition/</link>
+      <atom:link href="https://bonaldli.github.io/categories/competition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Competition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Mar 2020 16:16:03 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Competition</title>
+      <link>https://bonaldli.github.io/categories/competition/</link>
+    </image>
+    
+    <item>
+      <title>JD Prediction</title>
+      <link>https://bonaldli.github.io/project/jd-prediction/</link>
+      <pubDate>Wed, 04 Mar 2020 16:16:03 +0800</pubDate>
+      <guid>https://bonaldli.github.io/project/jd-prediction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+{
+  "name": "Bonald Ziyue LI",
+  "short_name": "Bonald Ziyue LI",
+  "lang": "en-us",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
+  "icons": [{
+    "src": "/images/icon_hu04cd4b0a1fd784771d339a7d4d0dce0f_7835_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu04cd4b0a1fd784771d339a7d4d0dce0f_7835_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
