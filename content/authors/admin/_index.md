@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: W2 Professor in Data Mining and Machine Learing
+role: Professorship in Transportation Analytics
 
 # Organizations/Affiliations
 organizations:
