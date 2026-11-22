@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bonald Ziyue LI</title>
+    <link>https://bonaldli.github.io/</link>
+      <atom:link href="https://bonaldli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bonald Ziyue LI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Aug 2025 23:12:17 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Bonald Ziyue LI</title>
+      <link>https://bonaldli.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Openings</title>
+      <link>https://bonaldli.github.io/post/openings/</link>
+      <pubDate>Sun, 10 Aug 2025 23:12:17 +0200</pubDate>
+      <guid>https://bonaldli.github.io/post/openings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Funding</title>
+      <link>https://bonaldli.github.io/post/funding/</link>
+      <pubDate>Sun, 10 Aug 2025 23:11:16 +0200</pubDate>
+      <guid>https://bonaldli.github.io/post/funding/</guid>
+      <description>&lt;p&gt;Overall, please take a close look if I have active open positions 
+&lt;a href=&#34;https://bonaldli.github.io/post/openings&#34;&gt;here&lt;/a&gt;. Otherwise, you may consider the following funding sources.&lt;/p&gt;
+&lt;h2 id=&#34;1-for-international-students&#34;&gt;1. For International Students&lt;/h2&gt;
+&lt;h3 id=&#34;11-for-potential-phd-students&#34;&gt;1.1 For Potential PhD Students&lt;/h3&gt;
+&lt;h3 id=&#34;12-for-potential-postdoc-students&#34;&gt;1.2 For Potential PostDoc Students&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.tum.de/ueber-die-tum/karriere-und-jobs/postdocs/tum-global-postdoc-fellowship&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TUM Global Postdoc Fellowship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Humboldt Research Fellowship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marie Curie PostDoc Fellowship&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-for-students-who-are-stationed-in-germany-already&#34;&gt;2. For Students who are stationed in Germany already&lt;/h2&gt;
+&lt;h3 id=&#34;21-for-potential-phd-students&#34;&gt;2.1 For Potential PhD Students&lt;/h3&gt;
+&lt;h3 id=&#34;22-for-potential-postdoc-students&#34;&gt;2.2 For Potential PostDoc Students&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.daimler-benz-stiftung.de/cms/en/promote/scholarship-program/postdoctoral-program.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daimler and Benz Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-specifically-for-chinese-students&#34;&gt;3. Specifically for Chinese Students&lt;/h2&gt;
+&lt;p&gt;You can try to apply for CSC Scholarship to finance your PhD or PostDoc study. And I can also host CSC scholarship visiting scholars.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CoSLight: Co-optimizing Collaborator Selection and Decision-making to Enhance Traffic Signal Control</title>
+      <link>https://bonaldli.github.io/publication/coslight/</link>
+      <pubDate>Sun, 25 Aug 2024 15:01:26 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/coslight/</guid>
+      <description>&lt;p&gt;What life mottos have we learned from traffic signal control? Wait! What?
+Yes, we learned that &lt;strong&gt;“you are your biggest collaborator”&lt;/strong&gt; and &lt;strong&gt;“Collaboration should be mutually reciprocal”&lt;/strong&gt; from the traffic light!&lt;/p&gt;
+&lt;p&gt;Every driver would have realized that the traffic patterns in different regions (residential v.s. downtown) at different hours (midday v.s. evening peak) are quite different. The same should have been true of the traffic signal coordination! In our CoSLight, we co-optimize the collaborating policy ρ (choosing which traffic light as a collaborator) and the decision-making policy π (delivering which traffic control phase for the next timeslot). It turns out to be working very, Very, VERY well: our CoSLight can choose different sets of traffic lights for collaboration at different times!&lt;/p&gt;
+&lt;p&gt;And we also learned life philosophies from the traffic light agents, very (ironically) deep:
+(1) When we drop the traffic light itself from being its own collaborator, the performance drops 2%: “You are your biggest collaborator”.
+(2) When you collaborate with me, but I don&amp;rsquo;t collaborate with you, a.k.a, not being mutually reciprocal (mathematically not being symmetric), the performance drops 300%!!!: “Collaboration should be mutually reciprocal”.&lt;/p&gt;
+&lt;p&gt;All right, “collaboration should be mutually reciprocal”: we learned the important lesson the hard way&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>X-Light: Cross-City Traffic Signal Control Using Transformer on Transformer as Meta Multi-Agent Reinforcement Learner</title>
+      <link>https://bonaldli.github.io/publication/xlight/</link>
+      <pubDate>Sat, 03 Aug 2024 15:00:22 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/xlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MultiFun-DAG: Multivariate Functional Directed Acyclic Graph</title>
+      <link>https://bonaldli.github.io/publication/multifundag/</link>
+      <pubDate>Fri, 07 Jun 2024 15:00:34 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/multifundag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial-Temporal Large Language Model for Traffic Prediction</title>
+      <link>https://bonaldli.github.io/publication/stllm/</link>
+      <pubDate>Fri, 07 Jun 2024 14:58:48 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/stllm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment</title>
+      <link>https://bonaldli.github.io/publication/timecma/</link>
+      <pubDate>Mon, 03 Jun 2024 15:01:39 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/timecma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VisionTraj: A Noise-Robust Trajectory Recovery Framework based on Large-scale Camera Network</title>
+      <link>https://bonaldli.github.io/publication/visiontraj/</link>
+      <pubDate>Sun, 02 Jun 2024 18:23:55 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/visiontraj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Awards</title>
+      <link>https://bonaldli.github.io/post/my-awards/</link>
+      <pubDate>Sun, 02 Jun 2024 17:14:18 +0200</pubDate>
+      <guid>https://bonaldli.github.io/post/my-awards/</guid>
+      <description>&lt;h1 id=&#34;i-classfas-fa-trophyi-international-awards-and-prizes&#34;&gt;&lt;i class=&#34;fas fa-trophy&#34;&gt;&lt;/i&gt; &lt;strong&gt;International Awards and Prizes&lt;/strong&gt;&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Peter Luh Young Researcher Award (Runner-up) for the paper “
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/10260564&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dynamic Causal Graph Convolutional Network for Traffic Prediction&lt;/a&gt;”, selected 3/600, highly prestigious, IEEE Robotics and Automation Society (2023).&lt;/li&gt;
+&lt;li&gt;Best Paper Award (Runner-up) for the paper “
+&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9458610&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graph-aware Tensor Topic Models for Individualized Passenger Travel Pattern Clustering&lt;/a&gt;”, Institute of Industrial and Systems Engineers (IISE), Quality Control and Reliability Engineering (QCRE) (2023).&lt;/li&gt;
+&lt;li&gt;Best Student Paper Award (Finalist) for the paper “Tensor Completion for High-dimensional Data with Graph-structured and Weakly-dependent Sample Dimension”, IISE QCRE (2022).&lt;/li&gt;
+&lt;li&gt;Best Applied Paper Award (Winner) for the paper “
+&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9458610&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tensor Topic Models with Graphs and Applications on Individualized Travel Patterns&lt;/a&gt;” INFORMS Data Mining and Decision Analytics (DMDA) Workshop (2021).&lt;/li&gt;
+&lt;li&gt;Best Theoretical Paper Award (Runner-Up) for the paper “
+&lt;a href=&#34;https://arxiv.org/abs/2404.04403&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Low-Rank Robust Subspace Tensor Clustering for Metro Passenger Flow Modeling&lt;/a&gt;”, INFORMS DMDA (2021).&lt;/li&gt;
+&lt;li&gt;Best Conference Paper Award (Winner) for the paper “
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/9126133&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Long-Short Term Spatiotemporal Tensor Prediction for Passenger Flow Profile&lt;/a&gt;”, IEEE International Conference on Automation Science and Engineering (CASE) (2020): selected from 1/500, highly prestigious.&lt;/li&gt;
+&lt;li&gt;Best Student Poster Award (Finalist) for the paper “
+&lt;a href=&#34;https://bonaldli.github.io/publication/anomaly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Profile Decomposition based Hybrid Transfer Learning for Cold-start Data Anomaly Detection&lt;/a&gt;”, INFORMS Quality, Statistics, and Reliability (QSR) Section (2020).&lt;/li&gt;
+&lt;li&gt;Best Student Paper Award (Finalist) for the paper “
+&lt;a href=&#34;https://bonaldli.github.io/publication/kdd2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Individualized Passenger Travel Pattern Multi-Clustering based on Graph Regularized Tensor Latent Dirichlet Allocation&lt;/a&gt;”, INFORMS Data Mining (2020).&lt;/li&gt;
+&lt;li&gt;Best Student Paper Award (Finalist) for the paper “
+&lt;a href=&#34;https://ojs.aaai.org//index.php/AAAI/article/view/5915&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tensor Completion for Weakly-Dependent Data on Graph for Metro Passenger Flow Prediction&lt;/a&gt;”, INFORMS QSR Section (2020).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;i-classfas-fa-awardi-scholarships-and-individual-funding&#34;&gt;&lt;i class=&#34;fas fa-award&#34;&gt;&lt;/i&gt; &lt;strong&gt;Scholarships and Individual Funding&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;--awards-during-phd-and-after-phd&#34;&gt;&lt;strong&gt;- Awards During Ph.D. and After Ph.D.&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;ACM Young Researcher Travel Grant Award 2023 (Winner) Amount: 1,000 USD;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Funding Agency: ACM SIGSPATIAL (2023).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Hong Kong Ph.D. Fellowship Scholarship Award (2017-2020) Amount: 1,296,000 HKD&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Highly-selective and prestigious, only 2 recipients in the department.&lt;/li&gt;
+&lt;li&gt;Funding Agency: Hong Kong Research Grants Council&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Best Thesis Award 2021 (2nd Runners-up) Amount: 3,000 HKD&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;HKUST Three Minute Thesis Competition.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;1st Runners-up, Audience Award, Hackathon@UST 2018 Amount: 15,000 HKD&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;--during-bachelor-study&#34;&gt;&lt;strong&gt;- During Bachelor Study&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;National First Prize, “Challenge Cup” National Curricular Academic Science and Technology
+Contest: A data-driven study for land transfer in rural China 2015&lt;/li&gt;
+&lt;li&gt;Honored Graduate Award, Xi’an Jiaotong University 2017&lt;/li&gt;
+&lt;li&gt;Regional First Prize, 7th Mechanical Innovation &amp;amp; Design Competition 2016&lt;/li&gt;
+&lt;li&gt;National Scholarship, Xi’an Jiaotong University 2016&lt;/li&gt;
+&lt;li&gt;1st-Runners-up Award, XJTU Entrepreneurship Competition 2015&lt;/li&gt;
+&lt;li&gt;National Encourage Scholarships, Xi’an Jiaotong University 2014, 2015&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Walking Through The Time: All The News</title>
+      <link>https://bonaldli.github.io/post/myallnews/</link>
+      <pubDate>Sun, 02 Jun 2024 16:32:33 +0200</pubDate>
+      <guid>https://bonaldli.github.io/post/myallnews/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;June 2024&lt;/strong&gt;: Our paper &amp;ldquo;
+&lt;a href=&#34;https://arxiv.org/abs/2404.12090&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;X-Light: Cross-City Traffic Signal Control Using Transformer on Transformer as Meta Multi-Agent Reinforcement Learner&lt;/a&gt;&amp;rdquo; is selected as the Highlight Paper in IJCAI 2024 in the track of AI for Critical Infrastructure.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;June 2024&lt;/strong&gt;: Our &amp;ldquo;
+&lt;a href=&#34;https://vision-based-industrial-inspection.github.io/eccv-24/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2nd Workshop on Vision-based Industrial Inspection (VISION) at ECCV 2024&lt;/a&gt;&amp;rdquo; is officially online. Come and join our data challenge and CFP! 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_eccv-2nd-workshop-on-vision-based-industrial-activity-7204496725728751618-PReu?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;May 2024&lt;/strong&gt;: Our paper &amp;ldquo;
+&lt;a href=&#34;https://arxiv.org/abs/2405.17152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoSLight: Co-optimizing Collaborator Selection and Decision-making to Enhance Traffic Signal Control&lt;/a&gt;&amp;rdquo; is accepted to &lt;strong&gt;SIGKDD 2024&lt;/strong&gt;! Great job, Jingqing. 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_sigkdd2024-kdd2024-reinforcementlearning-activity-7199754182457782274-2axK?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;May 2024&lt;/strong&gt;: We presented two papers in &lt;strong&gt;ICLR 2024&lt;/strong&gt; (Vienna, Austria) of using Large Language Models (LLMs) as agents to solve complex tasks. 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_iclr2024-largelanguagemodel-llm-activity-7194345961408622595-jAYR?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;May 2024&lt;/strong&gt;: We presented one paper in &lt;strong&gt;AISTATS 2024&lt;/strong&gt; (Valencia, Spain) of using contrastive learning to generate data for unsensored locations citywide! 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_aistats2024-salesforce-contrastivelearning-activity-7191332121217552384-Xee_?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;April 2024&lt;/strong&gt;: Our paper &amp;ldquo;
+&lt;a href=&#34;https://arxiv.org/abs/2404.12090&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;X-Light: Cross-City Traffic Signal Control Using Transformer on Transformer as Meta Multi-Agent Reinforcement Learner&lt;/a&gt;&amp;rdquo; is accepted to &lt;strong&gt;IJCAI 2024&lt;/strong&gt;! Great job, Haoyuan. 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_ijcai2024-deepmind-generalistagent-activity-7187488398570397696-UP5d?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;April 2024&lt;/strong&gt;: Me and my colleagues, Yizhou Wang (Northeastern University) and Kuan-Chuan Peng (Mitsubishi Electric Research Lab), are organizing a workshop &amp;ldquo;
+&lt;a href=&#34;https://adfmw.github.io/ijcai24/index.html#intro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anomaly Detection with Foundation Models&lt;/a&gt;&amp;rdquo; in &lt;strong&gt;IJCAI 2024&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;April 2024&lt;/strong&gt;: Dr. Ziyue Li is featured as the highlighted member in Institute of Industrial and Systems Engineers. 
+&lt;a href=&#34;https://www.linkedin.com/posts/iise-quality-control-and-reliability-engineering-qcre-628a631b5_machinelearning-spatialtemporal-deeplearning-activity-7185708524293779458-gR5m?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mar 2024&lt;/strong&gt;: Our paper &amp;ldquo;
+&lt;a href=&#34;https://arxiv.org/abs/2311.13884&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach&lt;/a&gt;&amp;rdquo; is accepted to &lt;strong&gt;ICLR 2024&lt;/strong&gt;! Great job, Bin. 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_resourceefficiency-efficentmachinelearning-activity-7174825554603323392-O_uV?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feb 2024&lt;/strong&gt;: Our paper &amp;ldquo;
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/10471901&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FELight: Fairness-Aware Traffic Signal Control via Sample-Efficient Reinforcement Learning&lt;/a&gt;&amp;rdquo; is accepted to &lt;strong&gt;IEEE TKDE&lt;/strong&gt;! Great job, Xinqi. 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_resourceefficiency-efficentmachinelearning-activity-7174825554603323392-O_uV?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feb 2024&lt;/strong&gt;: Our paper &amp;ldquo;
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/10481508&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A General Scenario-Agnostic Reinforcement Learning for Traffic Signal Control&lt;/a&gt;&amp;rdquo; is accepted to &lt;strong&gt;IEEE TITS&lt;/strong&gt;! Great job, Haoyuan. 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_resourceefficiency-efficentmachinelearning-activity-7174825554603323392-O_uV?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feb 2024&lt;/strong&gt;: Our paper &amp;ldquo;
+&lt;a href=&#34;https://arxiv.org/abs/2404.04403&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Low-Rank Robust Subspace Tensor Clustering for Metro Passenger Flow Modeling&lt;/a&gt;&amp;rdquo; is accepted to &lt;strong&gt;INFORMS Journal of Data Science&lt;/strong&gt;! Great job, Jiuyun. 
+&lt;a href=&#34;https://www.linkedin.com/posts/bonald-ziyue-li_resourceefficiency-efficentmachinelearning-activity-7174825554603323392-O_uV?utm_source=share&amp;amp;utm_medium=member_desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nov 2023&lt;/strong&gt;: &lt;em&gt;One paper accepted to AISTATS 2024&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct 2023&lt;/strong&gt;: &lt;em&gt;Two papers were accepted to ACM SIGSPATIAL 2023&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct 2023&lt;/strong&gt;: &lt;em&gt;I started to teach the course &amp;ldquo;Advanced Data Analytics and Deep Learning&amp;rdquo; for Master Program&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct 2023&lt;/strong&gt;: &lt;em&gt;I started to serve as the Sub-Council Member in INFORMS QSR&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct 2023&lt;/strong&gt;: &lt;em&gt;I served as Chair in INFORMS Annual Meeting 2023 (Phoenix, Arizona). The two sessions were &amp;ldquo;Structure Learning from Heterogenous Data&amp;rdquo; and &amp;ldquo;Spatiotemporal Decision Intelligence&amp;rdquo;.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Aug 2023&lt;/strong&gt;: &lt;em&gt;I served as Chair in IEE CASE 2023 (Phoenix, Arizona), with theme in &amp;ldquo;Spatiotemporal Decision Intelligence&amp;rdquo;.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Aug 2023&lt;/strong&gt;: &lt;em&gt;I served as Chair in SIGKDD (Long Beach, CA), with theme in &amp;ldquo;Graph Neural Network&amp;rdquo;.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SQL-to-Schema Enhances Schema Linking in Text-to-SQL</title>
+      <link>https://bonaldli.github.io/publication/schemalinkingsql/</link>
+      <pubDate>Wed, 15 May 2024 15:01:16 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/schemalinkingsql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning</title>
+      <link>https://bonaldli.github.io/publication/pdit/</link>
+      <pubDate>Mon, 06 May 2024 23:58:01 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/pdit/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;: In PDiT, we proposed a Transformer-interleaving-Transformer architecture for specialized environment perception and decision-making: it is a multi-modal generalist agent for vision, language, and numerics!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DuaLight: Enhancing Traffic Signal Control by Leveraging Scenario-Specific and Scenario-Shared Knowledge</title>
+      <link>https://bonaldli.github.io/publication/dualight/</link>
+      <pubDate>Mon, 06 May 2024 18:30:13 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/dualight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Mode</title>
+      <link>https://bonaldli.github.io/publication/timellmsurvey/</link>
+      <pubDate>Fri, 03 May 2024 15:00:55 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/timellmsurvey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Rank Robust Subspace Tensor Clustering for Metro Passenger Flow Modeling</title>
+      <link>https://bonaldli.github.io/publication/lrrst/</link>
+      <pubDate>Fri, 05 Apr 2024 15:00:16 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/lrrst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FELight: Fairness-Aware Traffic Signal Control Via Sample-Efficient Reinforcement Learning</title>
+      <link>https://bonaldli.github.io/publication/felight/</link>
+      <pubDate>Mon, 18 Mar 2024 14:59:50 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/felight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PET-SQL: A Prompt-enhanced Two-stage Text-to-SQL Framework with Cross-consistency</title>
+      <link>https://bonaldli.github.io/publication/petsql/</link>
+      <pubDate>Fri, 08 Mar 2024 15:00:03 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/petsql/</guid>
+      <description>&lt;p&gt;We are ranked as the top-1 solution wolrd wide in the 
+&lt;a href=&#34;https://paperswithcode.com/sota/text-to-sql-on-spider&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Text-to-SQL leaderboard&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SQLBench: Benchmarking the Text-to-SQL Capability of Large Language Models - A Comprehensive Evaluation</title>
+      <link>https://bonaldli.github.io/publication/sqlbench/</link>
+      <pubDate>Tue, 05 Mar 2024 14:59:40 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/sqlbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Decomposition Methods for Spatio-Temporal Anomaly Detection</title>
+      <link>https://bonaldli.github.io/publication/stad/</link>
+      <pubDate>Mon, 26 Feb 2024 14:59:26 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/stad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Neighbors Also Matter to Kriging: A New Contrastive-Prototypical Learning</title>
+      <link>https://bonaldli.github.io/publication/kcp/</link>
+      <pubDate>Wed, 24 Jan 2024 14:59:01 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/kcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Test-Time Adaptation of Spatial-Temporal Traffic Flow Forecasting</title>
+      <link>https://bonaldli.github.io/publication/adcsd/</link>
+      <pubDate>Mon, 08 Jan 2024 14:58:27 +0200</pubDate>
+      <guid>https://bonaldli.github.io/publication/adcsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Seminar for Machine Learning</title>
+      <link>https://bonaldli.github.io/talk/asml/</link>
+      <pubDate>Wed, 06 Dec 2023 23:00:56 +0100</pubDate>
+      <guid>https://bonaldli.github.io/talk/asml/</guid>
+      <description>&lt;h2 id=&#34;details&#34;&gt;&lt;strong&gt;Details:&lt;/strong&gt;&lt;/h2&gt;
+&lt;h4 id=&#34;0-syllabus&#34;&gt;0. Syllabus:&lt;/h4&gt;
+&lt;p&gt;The syllabus is available 
+&lt;a href=&#34;https://drive.google.com/file/d/1zHetIPczpivPBxlHMLVWF-EDz_ZNQcJE/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach</title>
+      <link>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</link>
+      <pubDate>Thu, 23 Nov 2023 23:47:28 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/llm-actorcritic-naacl23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems</title>
+      <link>https://bonaldli.github.io/publication/tptu_v2/</link>
+      <pubDate>Sun, 19 Nov 2023 23:51:41 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/tptu_v2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Dirichlet Process Multinomial Mixture Model with Graphs for Passenger Trajectory Clustering</title>
+      <link>https://bonaldli.github.io/publication/tensordpmm-sigspatial23/</link>
+      <pubDate>Sun, 05 Nov 2023 23:58:51 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/tensordpmm-sigspatial23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Critical Perceptual Pre-trained Model for Complex Trajectory Recovery</title>
+      <link>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</link>
+      <pubDate>Sun, 05 Nov 2023 16:08:37 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/co_paper_sensetime_rangatt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy</title>
+      <link>https://bonaldli.github.io/publication/kits-iclr24/</link>
+      <pubDate>Sun, 05 Nov 2023 00:06:12 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/kits-iclr24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reboost Large Language Model-based Text-to-SQL, Text-to-Python, and Text-to-Function -- with Real Applications in Traffic Domain</title>
+      <link>https://bonaldli.github.io/publication/reboost-icde24/</link>
+      <pubDate>Sat, 28 Oct 2023 00:08:51 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/reboost-icde24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage</title>
+      <link>https://bonaldli.github.io/publication/tptu-icde24/</link>
+      <pubDate>Sat, 07 Oct 2023 00:12:42 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/tptu-icde24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Data Analytics for Business – Deep Learning</title>
+      <link>https://bonaldli.github.io/talk/ada/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://bonaldli.github.io/talk/ada/</guid>
+      <description>&lt;h2 id=&#34;details&#34;&gt;&lt;strong&gt;Details:&lt;/strong&gt;&lt;/h2&gt;
+&lt;h4 id=&#34;0-syllabus&#34;&gt;0. Syllabus:&lt;/h4&gt;
+&lt;p&gt;The syllabus is available 
+&lt;a href=&#34;https://drive.google.com/file/d/1Grt1P-ggqER3k6ahGvmfoNNkxLR_V7vV/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;1-scope&#34;&gt;1. Scope:&lt;/h4&gt;
+&lt;p&gt;Our topics will mainly cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The basis of probabilistic theory as the foundation,&lt;/li&gt;
+&lt;li&gt;The popular deep learning models including Convolutional Neural Network, Recurrent Neural Network and sequence-to-sequence models, and more.&lt;/li&gt;
+&lt;li&gt;The state-of-the-art models including Self-Supervised Learning, GPT, and so on.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Causal Graph Convolutional Network for Traffic Prediction</title>
+      <link>https://bonaldli.github.io/publication/dbgcn-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:59 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/dbgcn-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlated Time Series Self-Supervised Representation Learning via Spatiotemporal Bootstrapping</title>
+      <link>https://bonaldli.github.io/publication/time-series-ssl-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:42 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/time-series-ssl-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Hierarchical SpatioTemporal Network for Traffic Forecasting</title>
+      <link>https://bonaldli.github.io/publication/adaptive-case23/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:02 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/adaptive-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation-Aware Distribution Representation Network for Person Clustering With Multiple Modalities</title>
+      <link>https://bonaldli.github.io/publication/radnet-tmm23/</link>
+      <pubDate>Tue, 22 Aug 2023 00:28:19 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/radnet-tmm23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MM-DAG: Multi-task DAG Learning for Multi-modal Data--with Application for Traffic Congestion Analysis</title>
+      <link>https://bonaldli.github.io/publication/mmdag-kdd23/</link>
+      <pubDate>Fri, 04 Aug 2023 00:28:34 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/mmdag-kdd23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Privacy-preserving Heart Rate Prediction System for Drivers in Connected Vehicles</title>
+      <link>https://bonaldli.github.io/publication/heart-driving-mobi23/</link>
+      <pubDate>Sun, 18 Jun 2023 00:28:56 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/heart-driving-mobi23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Probabilistic Framework for Spatiotemporal Passenger Crowdedness Inference within Urban Rail Transit Network</title>
+      <link>https://bonaldli.github.io/publication/mtr-crowd-case23/</link>
+      <pubDate>Wed, 14 Jun 2023 00:27:27 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/mtr-crowd-case23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General Scenario-agnostic Reinforcement Learning for Traffic Signal Control</title>
+      <link>https://bonaldli.github.io/publication/gesa-tits24/</link>
+      <pubDate>Mon, 13 Feb 2023 00:29:16 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/gesa-tits24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Machine Learning for Smart Transportation (with GaTech)</title>
+      <link>https://bonaldli.github.io/talk/ml-its/</link>
+      <pubDate>Mon, 30 Jan 2023 15:30:00 +0100</pubDate>
+      <guid>https://bonaldli.github.io/talk/ml-its/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;details&#34;&gt;&lt;strong&gt;Details:&lt;/strong&gt;&lt;/h2&gt;
+&lt;h4 id=&#34;0-syllabus&#34;&gt;0. Syllabus:&lt;/h4&gt;
+&lt;p&gt;The syllabus is available 
+&lt;a href=&#34;https://drive.google.com/open?id=10flGnmEzIsPo6YFUhUAdim5VYlW_TyNB&amp;amp;authuser=bobbyli1994%40gmail.com&amp;amp;usp=drive_fs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;1-lecture-one-high-dimensional-data-tensor-in-smart-transportation&#34;&gt;1. Lecture One: High-dimensional Data (Tensor) in Smart Transportation&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Time&lt;/strong&gt;: 3:30PM-4:45PM, 30 Jan 2023 (65-70min Lecture, 5-10min Q&amp;amp;A)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: Zoom (&lt;a href=&#34;https://gatech.zoom.us/j/97394420485,&#34;&gt;https://gatech.zoom.us/j/97394420485,&lt;/a&gt; Meeting ID: 973 9442 0485)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: In the first lecture, we will discuss how the high-dimensional data analytics, i.e., tensor methods, could well formulate the traffic data both spatially and temporally, and we will look at the most popular tasks in ITS: demand prediction, and travel pattern clustering. Specifically, we will discuss Tensor Decomposition, Tensor Completion for demand prediction, and Tensor Topic Models for travel pattern clustering.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QyoZR-UksQM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&#34;2-lecture-two-deep-learning-in-smart-transportation&#34;&gt;2. Lecture Two: Deep Learning in Smart Transportation&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Time&lt;/strong&gt;: 3:30PM-4:45PM, 01 Feb 2023 (65-70min Lecture, 5-10min Q&amp;amp;A)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: Zoom (&lt;a href=&#34;https://gatech.zoom.us/j/97394420485,&#34;&gt;https://gatech.zoom.us/j/97394420485,&lt;/a&gt; Meeting ID: 973 9442 0485)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: In the second lecture, more deep learning related methods will be introduced. Specifically, we will discuss how Self-Supervised Learning can be leveraged to deal with static time-series data such as traffic flow. We will also discuss how Contrastive Learning could learn more robust representation for dynamic trajectory. Last but not the least, we will also leverage Deep Reinforcement Learning into traffic signal control and Deep Causal Inference into traffic congestion reasoning.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/1BFLL7JT7qM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Decision Making under Uncertainty (Reinforcement Learning)</title>
+      <link>https://bonaldli.github.io/talk/dmu/</link>
+      <pubDate>Mon, 02 Jan 2023 16:15:13 +0100</pubDate>
+      <guid>https://bonaldli.github.io/talk/dmu/</guid>
+      <description>&lt;h2 id=&#34;details&#34;&gt;&lt;strong&gt;Details:&lt;/strong&gt;&lt;/h2&gt;
+&lt;h4 id=&#34;0-syllabus&#34;&gt;0. Syllabus:&lt;/h4&gt;
+&lt;p&gt;The syllabus is available 
+&lt;a href=&#34;https://drive.google.com/file/d/1zDPItJeH4J-jrktw_apEXR6q9BJSEwH1/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jointly contrastive representation learning on road network and trajectory</title>
+      <link>https://bonaldli.github.io/publication/co_paper_sensetime_roadgraph/</link>
+      <pubDate>Mon, 17 Oct 2022 16:08:37 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/co_paper_sensetime_roadgraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The paradox of the artificial intelligence system development process: the use case of corporate wellness programs using smart wearables</title>
+      <link>https://bonaldli.github.io/publication/ai-ethics-aisociety22/</link>
+      <pubDate>Mon, 26 Sep 2022 00:30:12 +0100</pubDate>
+      <guid>https://bonaldli.github.io/publication/ai-ethics-aisociety22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individualized Passenger Travel Pattern Multi-Clustering based on Graph Regularized Tensor Latent Dirichlet Allocation</title>
+      <link>https://bonaldli.github.io/publication/tensorlda-dami22/</link>
+      <pubDate>Sat, 18 Jun 2022 19:18:44 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/tensorlda-dami22/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-medal&#34;&gt;&lt;/i&gt; Award:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This paper is awarded with &lt;strong&gt;Best Student Paper Finalist Award&lt;/strong&gt; in INFORMS 2020 Data Mining Section.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;After the previous two works in station-wise traffic flow prediction, we realized this mass traffic analysis at a macro level neglects the research value and abundant information of individual passenger travel data. Individualized travel pattern (passenger $u$ travels from origin $o$ to destination $d$  at time $t$) is believed to have higher research value.&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;But this task is rather challenging since it is high-dimensional multi-mode Spatiotemporal big data with more 7 million passengers; Also there is multi-clustering structure along each dimension of $o, d, t$; passenger behaviors are also affected by the external environment, such as the locations and surroundings of stations.&lt;/p&gt;
+&lt;h2 id=&#34;methodology&#34;&gt;Methodology&lt;/h2&gt;
+&lt;p&gt;So we proposed a novel Graph-Regularized Tensor LDA model: firstly it represents each trip from one passenger as a 3-dimensional word $\boldsymbol{w} = (w^O, w^D, w^T)$; A passenger with several trips is perceived as a 3-dimensional document $\boldsymbol{\mathcal{W}}^{O \times D \times T}$; Generative processes in the passenger-level and trip-level will be defined along each dimension and the latent topic will be also formulated as a tensor $\boldsymbol{z} = (z^O, z^D, z^T)$; Same as last work we also observed that passengers will have similar patterns both in geographically close stations or functionally similar stations. We further propose to incorporate the graph regularizations into the tensor LDA generative process for origin and destination. We also propose the tensorised variational  expectation-maximization (EM) algorithm to estimate parameters.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;Eventually, the topics along each dimension of $o, d, t$ are much more interpretable and meaningful than benchmark methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tensor Topic Models with Graphs and Applications on Individualized Travel Patterns</title>
+      <link>https://bonaldli.github.io/publication/icde2021-phdsym/</link>
+      <pubDate>Mon, 19 Apr 2021 18:20:55 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/icde2021-phdsym/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profile Decomposition based Hybrid Transfer Learning for Cold-start Data Anomaly Detection</title>
+      <link>https://bonaldli.github.io/publication/dhtl-anomaly-tkdd22/</link>
+      <pubDate>Mon, 04 Jan 2021 18:32:48 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/dhtl-anomaly-tkdd22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>https://bonaldli.github.io/post/mybooks/</link>
+      <pubDate>Sat, 22 Aug 2020 12:58:34 +0800</pubDate>
+      <guid>https://bonaldli.github.io/post/mybooks/</guid>
+      <description>&lt;p&gt;These are the books I have read over the past five years.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;i-classfas-fa-booki--the-art-of-loving--i-classfar-fa-useri-erich-fromm&#34;&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt;  &amp;ldquo;The Art of Loving&amp;rdquo; 🇺🇸, &lt;i class=&#34;far fa-user&#34;&gt;&lt;/i&gt; Erich Fromm&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;&lt;i class=&#34;fas fa-calendar-week&#34;&gt;&lt;/i&gt; Date: 2020 Sept&lt;/em&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://bonaldli.github.io/post/mybooks/the-art-of-loving_hu61bdef03b04c10a6e15a7e64ebb3580c_159098_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://bonaldli.github.io/post/mybooks/the-art-of-loving_hu61bdef03b04c10a6e15a7e64ebb3580c_159098_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;150&#34; height=&#34;950&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+Introduction:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a good book. I like it&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;i-classfas-fa-booki--the-road-less-traveled--i-classfar-fa-useri-m-scott-peck&#34;&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt;  &amp;ldquo;The Road Less Traveled&amp;rdquo; 🇺🇸, &lt;i class=&#34;far fa-user&#34;&gt;&lt;/i&gt; M. Scott Peck&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;&lt;i class=&#34;fas fa-calendar-week&#34;&gt;&lt;/i&gt; Date: 2020 Aug&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a good book. I like it&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;i-classfas-fa-booki--the-idea-factory-bell-labs-and-the-great-age-of-american-innovation--i-classfar-fa-useri-jon-gertner&#34;&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt;  &amp;ldquo;The Idea Factory Bell Labs and the Great Age of American Innovation&amp;rdquo; 🇺🇸, &lt;i class=&#34;far fa-user&#34;&gt;&lt;/i&gt; Jon Gertner&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;&lt;i class=&#34;fas fa-calendar-week&#34;&gt;&lt;/i&gt; Date: 2020 Jul&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a good book. I like it&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;i-classfas-fa-booki--the-little-prince--i-classfar-fa-useri-antoine-de-saint-exupéry&#34;&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt;  &amp;ldquo;The Little Prince&amp;rdquo; 🇺🇸, &lt;i class=&#34;far fa-user&#34;&gt;&lt;/i&gt; Antoine de Saint-Exupéry&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;&lt;i class=&#34;fas fa-calendar-week&#34;&gt;&lt;/i&gt; Date: 2020 Jul&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a good book. I like it&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;i-classfas-fa-booki--california--i-classfar-fa-useri-kevin-starr&#34;&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt;  &amp;ldquo;California&amp;rdquo; 🇺🇸, &lt;i class=&#34;far fa-user&#34;&gt;&lt;/i&gt; Kevin Starr&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;&lt;i class=&#34;fas fa-calendar-week&#34;&gt;&lt;/i&gt; Date: 2019 Sept&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a good book. I like it&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;i-classfas-fa-booki--great-rise-of-asia-geopolitics-and-economic-integration-in-the-new-century--i-classfar-fa-useri-yongming-yang&#34;&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt;  &amp;ldquo;Great Rise of Asia: Geopolitics and Economic Integration in the New Century&amp;rdquo; 🇨🇳, &lt;i class=&#34;far fa-user&#34;&gt;&lt;/i&gt; Yongming Yang&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;&lt;i class=&#34;fas fa-calendar-week&#34;&gt;&lt;/i&gt; Date: 2018 Dec&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a good book. I like it&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;i-classfas-fa-booki--the-history-of-hong-kong-with-graphs--i-classfar-fa-useri-zifeng-zhou&#34;&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt;  &amp;ldquo;The History of Hong Kong with Graphs&amp;rdquo; 🇨🇳, &lt;i class=&#34;far fa-user&#34;&gt;&lt;/i&gt; Zifeng Zhou&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;&lt;i class=&#34;fas fa-calendar-week&#34;&gt;&lt;/i&gt; Date: 2018 Dec&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a good book. I like it&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;i-classfas-fa-booki--taiwan-in-1930s-the-fist-golden-ago-for-taiwan--i-classfar-fa-useri-mingliang-guo-junlin-ye&#34;&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt;  &amp;ldquo;Taiwan in 1930&amp;rsquo;s: The fist golden ago for Taiwan&amp;rdquo; 🇨🇳, &lt;i class=&#34;far fa-user&#34;&gt;&lt;/i&gt; Mingliang Guo, Junlin Ye&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;&lt;i class=&#34;fas fa-calendar-week&#34;&gt;&lt;/i&gt; Date: 2018 Dec&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a good book. I like it&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;i-classfas-fa-booki--great-rise-of-asia-geopolitics-and-economic-integration-in-the-new-century--i-classfar-fa-useri-yongming-yang-1&#34;&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt;  &amp;ldquo;Great Rise of Asia: Geopolitics and Economic Integration in the New Century&amp;rdquo; 🇨🇳, &lt;i class=&#34;far fa-user&#34;&gt;&lt;/i&gt; Yongming Yang&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;&lt;i class=&#34;fas fa-calendar-week&#34;&gt;&lt;/i&gt; Date: 2018 Dec&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a good book. I like it&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Long-Short Term Spatiotemporal Tensor Prediction for Passenger Flow Profile</title>
+      <link>https://bonaldli.github.io/publication/lstensor-case2020/</link>
+      <pubDate>Thu, 25 Jun 2020 12:01:43 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/lstensor-case2020/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-medal&#34;&gt;&lt;/i&gt; Award:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This paper is awarded with &lt;strong&gt;Best Conference Paper Award&lt;/strong&gt; in 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Traffic flow prediction is undoubtedly an essential task for both operational team and citizens. With the collaboration the Hong Kong Metro, we realize  the task to provide the citywide prediction covering all 100 stations simultaneously is quite essential yet rather challenging, especially when the data has strong spatiotemporal correlation.&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;We observed two types of spatial correlations and two types of temporal correlations in the data. We have spot that, for spatial correlations: (S1) Geographical correlation: the passenger flow of a station is usually affected by its spatially adjacent neighbors; (S2) Contextual correlations: two stations sharing similar functionalities (business center, residential area or school, etc.) are more likely to have similar passenger flows. For temporal correlations: (T1) Daily correlation: the profile is correlated with previous days of the same week; (T2)  Weekly correlation: the profile is correlated with the same day of previous weeks.&lt;/p&gt;
+&lt;p&gt;For the metro operational team, to provide long-term (several days ahead) prediction and short-term (several hours ahead) prediction are both important. And there are little work to both consider spatiotemporal correlation and offer citywide long- and short-term prediction.&lt;/p&gt;
+&lt;h2 id=&#34;methodology&#34;&gt;Methodology&lt;/h2&gt;
+&lt;p&gt;To tackle this challenge, we first formulate data as a three-dimensional tensor $\boldsymbol{\mathcal{X}}^{station \times  point \times day}$ with dimension station, day, time point, to preserve the spatiotemporal nature of the data. (1.1) For long-term prediction, we proposed a &amp;ldquo;2-step 2D-ARMA&amp;rdquo; tensor prediction model, which firstly uses tensor decomposition to get day-feature matrix $\mathbf{U}^{day}$, and then conducts 2D-ARMA prediction model on this $\mathbf{U}^{day}$, capturing the daily and weekly correlations in a better way. (1.2) Another challenge for long-term prediction is how to update prediction real-time when new data keep arriving. To tackle this, we also propose a recursive dynamic updating method. (2) For short-term prediction,  we first directly used Low Rank Tensor Completion (LRTC) method to treat the prediction horizon as missing part and to complete it. But we found an interesting phenomenon: in homogeneous stations LRTC works well, however, LRTC malfunctions in heterogeneous stations. we proposed a temporary solution for it: a &amp;ldquo;Tensor Clustering + Tensor Completion&amp;rdquo; prediction model which first clusters stations and then conducts tensor completion within each station cluster for prediction.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;Our method improved the prediction results significantly: for long-term prediction, 30% higher accuracy is achieved; Recursive dynamic updating method could improve the following 3 hours prediction by around 20%. For short-term prediction, with the homogeneity of stations guaranteed, and the tensor completion within one cluster can improve the prediction by 30%&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction</title>
+      <link>https://bonaldli.github.io/publication/wdgtc-aaai20/</link>
+      <pubDate>Fri, 03 Apr 2020 16:32:57 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/wdgtc-aaai20/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-medal&#34;&gt;&lt;/i&gt; Award:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This paper is awarded with &lt;strong&gt;Best Student Paper Finalist Award&lt;/strong&gt; in INFORMS 2020 Quality, Statistics, and Reliability (QSR) Section.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;From our last paper, we found out low-rank tensor completion tends to ill-perform in heterogeneous stations. This is because LRTC assume a low rank structure in data, i.e. low-rank property implies that data in all stations are strongly and linearly dependent. However, two spatial correlations in station dimension are observed: only stations that are geographically close or functionally similar are more likely to have same passenger flow patterns. We offered a temporary solution by conducting LRTC within each station cluster to guarantee low-rank structure. But we would also like to look for a better solution, a low-rank tensor completion method that could directly handle the data with local spatial correlations.&lt;/p&gt;
+&lt;h2 id=&#34;methodology&#34;&gt;Methodology&lt;/h2&gt;
+&lt;p&gt;Therefore we proposed a tensor completion method for Weakly-dependent Data on Graph (WDG). We formulate the geographical correlation and functional similarity as two graphs, and introduce them as two Laplacian regularizations into LRTC, namely, into station-feature matrix $\mathbf{U}^{station}$, such that if two stations are close on the two graphs, they have similar parameters on $\mathbf{U}^{station}$. Besides, since there are those two graphs on station dimension, if any 2 stations are randomly picked, they’re less likely to be highly-dependent if they’re not connected in either of two graphs. We formulate this weak dependency as a sparse coding via $l_1$-norm, such that a station is represented with only a small amount of highly-related stations as “basis”.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;We are the first work to provide a Low Rank Tensor Completion solution to weakly-dependent pattern on graphs. And the completion result could achieve 40% higher accuracy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discussion of &#39;A novel approach to the analysis of spatial and functional data over complex domains&#39; </title>
+      <link>https://bonaldli.github.io/publication/discussion-paper/</link>
+      <pubDate>Sat, 28 Mar 2020 11:52:42 +0800</pubDate>
+      <guid>https://bonaldli.github.io/publication/discussion-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Dating Hack</title>
+      <link>https://bonaldli.github.io/project/my-dating-hack/</link>
+      <pubDate>Wed, 04 Mar 2020 17:07:52 +0800</pubDate>
+      <guid>https://bonaldli.github.io/project/my-dating-hack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JD Prediction</title>
+      <link>https://bonaldli.github.io/project/jd-prediction/</link>
+      <pubDate>Wed, 04 Mar 2020 16:16:03 +0800</pubDate>
+      <guid>https://bonaldli.github.io/project/jd-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Hikes</title>
+      <link>https://bonaldli.github.io/post/my-arhikes/</link>
+      <pubDate>Thu, 22 Aug 2019 15:46:36 +0800</pubDate>
+      <guid>https://bonaldli.github.io/post/my-arhikes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
